@@ -35,8 +35,8 @@ CREATE TABLE tb_serv (
    codser     smallint PRIMARY KEY,
    nomecli     varchar(60),
    sxcli       varchar(1), -- 0 = Masculino, 1 = Feminino
-   bairrocli   varchar(20),
-   ruacli      varchar(20),
+   bairro   varchar(20),
+   rua      varchar(20),
    dataagend   date,
    horaagent   time,
    vlrfrete    decimal(19,2),  
