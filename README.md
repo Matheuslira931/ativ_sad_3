@@ -1,4 +1,4 @@
-![image](https://github.com/Matheuslira931/ativ_sad_3/assets/67758248/b3a8046e-b54a-432e-a37e-1a895bcbe337)# ativ_sad_3
+# ativ_sad_3
 
 
 #Criação da tabela 1
