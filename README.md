@@ -89,3 +89,6 @@ _______________
 
 ### Sétima tabela (Dimensão Tipo de Serviço)
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/3212f462-ba23-4748-8ee7-688643f5cdfb)
+
+### Diagrama do Banco 3
+![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/19bda5a5-ca8f-42af-ac12-11c0a61564de)
