@@ -49,7 +49,7 @@ Essencial para o cadastro e gerenciamento de informações dos clientes.
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/5351197e-c499-4314-84a6-6202846e6262)
 
 ### Terceira tabela (Endereço)
-Responsável por armazenar os endereços, senda essa uma informação crucial para a logística da empresa.
+Responsável por armazenar os endereços dos serviços, senda essa uma informação crucial para a logística da empresa.
 
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/b5cfc664-8412-488c-9061-fc35b3a9ad4f)
 
@@ -69,15 +69,23 @@ Essencial para o gerenciamento dos serviços prestados pela empresa, fornecendo 
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/1b248de8-167d-485c-aaf1-77b5939cab9b)
 
 ### Sétima tabela (Sexo)
+Esta tabela armazena informações sobre o gênero dos clientes ou funcionários, que podem contribuir para análises demográficas e políticas de inclusão.
+
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/68fc7f7c-1c5e-4312-915a-edb89f07a404)
 
 ### Oitava tabela (Status de Serviço)
+Esta tabela provavelmente registra o status atual dos serviços prestados, como concluído, pendente, em andamento, entre outros, facilitando o acompanhamento do progresso dos serviços.
+
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/8c8c3852-9037-4e19-bd2c-f49c3833de73)
 
 ### Nona tabela (Tipo de Serviço)
+Continuando a categorização dos serviços oferecidos pela empresa, esta tabela complementa a quarta tabela, fornecendo mais detalhes sobre os tipos de serviços disponíveis.
+
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/280c276c-b96a-4043-ada7-eacf14720344)
 
 ### Diagrama do Banco 2
+Assim como o diagrama do banco 1, este fornece uma visão geral da estrutura do banco de dados, incluindo as tabelas adicionadas nesta parte do projeto.
+
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/ae9f97bc-cbfb-4b51-8a33-fbd2b7c73c0c)
 
 
