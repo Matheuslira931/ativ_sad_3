@@ -5,7 +5,7 @@
 
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/67758248/63c05385-bf82-4ce0-8888-f9dded74baa6)
 
-primeira tabela (avalição servico)
+Primeira tabela (avalição servico)
 Criado no intuito de deixar mais organizado e menos desacoplado para ficar na tabela serviço
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/67758248/7a1f3b54-bbcc-489f-9be1-0db2d7290eec)
 
@@ -29,7 +29,9 @@ _______________
 
 
 #Crianção da tabela 2
+![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/9d917466-e312-4d03-ac78-370b8561fb52)
 
-
+Primeira tabela (avalição servico)
+Criado no intuito de deixar mais organizado e menos desacoplado para ficar na tabela serviço
 
 
