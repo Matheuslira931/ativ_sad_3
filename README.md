@@ -21,7 +21,7 @@ Essa tabela é a principal aonde vai receber das outras tabelas
 Ela tem o mesmo proposito igualmente a primeira tabela de avalição 
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/67758248/a9fe9f04-7783-4f0a-bfab-a5e203d0c14e)
 
-### Diagrama
+### Diagrama do Banco 1
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/67758248/85a2b8df-7c6f-4b43-b5d8-c8ddf634c8df)
 
 
@@ -59,6 +59,8 @@ _______________
 ### Nona tabela (Tipo de Serviço)
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/280c276c-b96a-4043-ada7-eacf14720344)
 
+### Diagrama do Banco 2
+![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/ae9f97bc-cbfb-4b51-8a33-fbd2b7c73c0c)
 
 
 
