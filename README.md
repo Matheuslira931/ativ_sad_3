@@ -45,19 +45,20 @@ Quarta tabela (Especialidade)
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/6bc4a1ee-6350-482c-b0b1-9b105b56b842)
 
 Quinta tabela (Funcionario)
-![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/1f3aa5c9-365b-4165-b776-c99c48b7666d)
+![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/21ee9d70-d25a-4b26-ad5e-73904c55baf4)
 
 Sexta tabela (Serviço)
-![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/cab067ed-5c5a-4606-9572-220215a23894)
+![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/1b248de8-167d-485c-aaf1-77b5939cab9b)
 
 Sétima tabela (Sexo)
-![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/6fd27f9a-8907-40bf-a164-ee525bb5768a)
+![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/68fc7f7c-1c5e-4312-915a-edb89f07a404)
 
 Oitava tabela (Status de Serviço)
-![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/0e2b161a-0c6e-43f5-98fe-390a1fd594f7)
+![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/8c8c3852-9037-4e19-bd2c-f49c3833de73)
 
-Nona tabela (Status de Serviço)
-![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/ea76aadc-1208-48a9-9086-881191e037f4)
+Nona tabela (Tipo de Serviço)
+![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/280c276c-b96a-4043-ada7-eacf14720344)
+
 
 
 
