@@ -6,22 +6,23 @@
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/67758248/63c05385-bf82-4ce0-8888-f9dded74baa6)
 
 ### Primeira tabela (avalição servico)
-Criado no intuito de deixar mais organizado e menos desacoplado para ficar na tabela serviço
+Esta tabela é criada com o propósito de armazenar dados relacionados à avaliação dos serviços prestados, contribuindo para a análise da qualidade do serviço oferecido.
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/67758248/7a1f3b54-bbcc-489f-9be1-0db2d7290eec)
 
 ### Segunda tabela (funcionários)
-Essa tabela fica responsável para ter logica do funcionario
+Responsável por armazenar informações dos funcionários, como dados pessoais, atribuições e histórico profissional, garantindo uma gestão eficaz do quadro de pessoal da empresa.
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/67758248/88a3c7ee-3f7e-469f-b5c7-609302d47c92)
 
 ### Terceira tabela (Serviços)
-Essa tabela é a principal aonde vai receber das outras tabelas
+Essencial para a gestão dos serviços oferecidos pela empresa, armazenando dados como valor, endereço e outras informações relevantes para a prestação de serviços aos clientes.
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/67758248/fc0ac91b-52aa-4f01-a496-f11b39601a0f)
 
 ### Quarta tabela (Tipo serviço)
-Ela tem o mesmo proposito igualmente a primeira tabela de avalição 
+Similar à primeira tabela de avaliação, esta tabela visa categorizar os diferentes tipos de serviços oferecidos pela empresa, fornecendo uma estrutura organizada para sua gestão.
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/67758248/a9fe9f04-7783-4f0a-bfab-a5e203d0c14e)
 
 ### Diagrama do Banco 1
+Apresenta a representação visual das tabelas criadas até o momento, fornecendo uma visão geral da estrutura do banco de dados.
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/67758248/85a2b8df-7c6f-4b43-b5d8-c8ddf634c8df)
 
 
@@ -33,6 +34,7 @@ _______________
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/9d917466-e312-4d03-ac78-370b8561fb52)
 
 ### Primeira tabela (Avalição servico)
+Semelhante à primeira tabela da primeira parte, esta tabela continua a armazenar dados relacionados à avaliação dos serviços prestados pela empresa.
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/3db645c1-7330-41f2-8f14-41396d143498)
 
 ### Segunda tabela (Cliente)
