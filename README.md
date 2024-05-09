@@ -40,21 +40,32 @@ _______________
 
 ### Primeira tabela (Avalição servico)
 Semelhante à primeira tabela da primeira parte, esta tabela continua a armazenar dados relacionados à avaliação dos serviços prestados pela empresa.
+
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/3db645c1-7330-41f2-8f14-41396d143498)
 
 ### Segunda tabela (Cliente)
+Essencial para o cadastro e gerenciamento de informações dos clientes.
+
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/5351197e-c499-4314-84a6-6202846e6262)
 
 ### Terceira tabela (Endereço)
+Responsável por armazenar os endereços, senda essa uma informação crucial para a logística da empresa.
+
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/b5cfc664-8412-488c-9061-fc35b3a9ad4f)
 
 ### Quarta tabela (Especialidade)
+Esta tabela é útil para catalogar as especialidades dos funcionários, facilitando a atribuição de tarefas e serviços de acordo com suas competências.
+
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/6bc4a1ee-6350-482c-b0b1-9b105b56b842)
 
 ### Quinta tabela (Funcionario)
+Esta tabela armazena os registros dos funcionários.
+
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/21ee9d70-d25a-4b26-ad5e-73904c55baf4)
 
 ### Sexta tabela (Serviço)
+Essencial para o gerenciamento dos serviços prestados pela empresa, fornecendo os detalhes dos serviços.
+
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/1b248de8-167d-485c-aaf1-77b5939cab9b)
 
 ### Sétima tabela (Sexo)
