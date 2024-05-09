@@ -1,4 +1,4 @@
-# ativ_sad_3
+## ativ_sad_3
 
 
 #Criação da tabela 1
@@ -21,7 +21,7 @@ Quarta tabela (Tipo serviço)
 Ela tem o mesmo proposito igualmente a primeira tabela de avalição 
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/67758248/a9fe9f04-7783-4f0a-bfab-a5e203d0c14e)
 
-
+Diagrama
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/67758248/85a2b8df-7c6f-4b43-b5d8-c8ddf634c8df)
 
 
