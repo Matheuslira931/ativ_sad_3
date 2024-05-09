@@ -30,7 +30,6 @@ _______________
 
 #Crianção da tabela 2
 
-![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/a7bafc15-d96b-40d6-b275-27f5001f53b6)
 
 
 
