@@ -1,7 +1,7 @@
 ## Ativ_sad_3
 
 
-### Criação das tabelas 1
+### Criação das tabelas do banco 1
 
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/67758248/63c05385-bf82-4ce0-8888-f9dded74baa6)
 
@@ -54,12 +54,12 @@ Responsável por armazenar os endereços dos serviços, senda essa uma informaç
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/b5cfc664-8412-488c-9061-fc35b3a9ad4f)
 
 ### Quarta tabela (Especialidade)
-Esta tabela é útil para catalogar as especialidades dos funcionários, facilitando a atribuição de tarefas e serviços de acordo com suas competências.
+Esta tabela é útil para catalogar as especialidades dos serviços e  funcionários, facilitando a atribuição de tarefas e serviços de acordo com suas competências.
 
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/6bc4a1ee-6350-482c-b0b1-9b105b56b842)
 
 ### Quinta tabela (Funcionario)
-Esta tabela armazena os registros dos funcionários.
+Esta tabela armazena as informações dos funcionários.
 
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/21ee9d70-d25a-4b26-ad5e-73904c55baf4)
 
@@ -74,7 +74,7 @@ Esta tabela armazena informações sobre o gênero dos clientes ou funcionários
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/68fc7f7c-1c5e-4312-915a-edb89f07a404)
 
 ### Oitava tabela (Status de Serviço)
-Esta tabela provavelmente registra o status atual dos serviços prestados, como concluído, pendente, em andamento, entre outros, facilitando o acompanhamento do progresso dos serviços.
+Esta tabela provavelmente registra o status atual dos serviços prestados, como em espera, concluído, em andamento e cancelado, facilitando  assim o acompanhamento do progresso dos serviços.
 
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/8c8c3852-9037-4e19-bd2c-f49c3833de73)
 
@@ -101,7 +101,7 @@ Esta tabela representa uma abordagem de modelagem dimensional, sendo utilizada p
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/4532f43f-0416-4f7e-bd18-def79e6fbd8a)
 
 ### Segunda tabela (Dimensão Data)
-Armazena dados temporais.
+Armazena os dados temporais.
 
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/5fa69ac8-ba98-460e-a616-eb5d74117633)
 
@@ -111,7 +111,7 @@ Essa tabela contém informações sobre os endereços dos serviços.
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/465396b1-a4f2-4567-af42-dfdd3e2e48a0)
 
 ### Quarta tabela (Dimensão Especialidade)
-Destinada a armazenar informações sobre as especialidades dos serviços.
+Destinada a armazenar informações sobre as especialidades dos funcionários com seus serviços .
 
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/d76569f8-334d-417c-a8f6-d0eefe15d886)
 
@@ -124,7 +124,8 @@ Essencial para armazenar detalhes sobre os funcionários em um ambiente de model
 Detalha os aspectos adicionais dos tipos de serviço para uma análise dimensional mais refinada.
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/b551634e-5187-4431-94c5-1493fe692e13)
 
-### Sétima tabela (Fato)
+### Sétima tabela (Fato Serviço)
+Nessa tabelas as métricas de negócios fundamentais são armazenadas.
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/3212f462-ba23-4748-8ee7-688643f5cdfb)
 
 ### Diagrama do Banco 3
