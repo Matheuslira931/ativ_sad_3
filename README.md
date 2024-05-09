@@ -5,12 +5,12 @@
 
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/67758248/63c05385-bf82-4ce0-8888-f9dded74baa6)
 
-### Primeira tabela (avalição servico)
+### Primeira tabela (Avaliação de Serviço)
 Esta tabela é criada com o propósito de armazenar dados relacionados à avaliação dos serviços prestados, contribuindo para a análise da qualidade do serviço oferecido.
 
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/67758248/7a1f3b54-bbcc-489f-9be1-0db2d7290eec)
 
-### Segunda tabela (funcionários)
+### Segunda tabela (Funcionários)
 Responsável por armazenar informações dos funcionários, como dados pessoais, atribuições e histórico profissional, garantindo uma gestão eficaz do quadro de pessoal da empresa.
 
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/67758248/88a3c7ee-3f7e-469f-b5c7-609302d47c92)
@@ -20,7 +20,7 @@ Essencial para a gestão dos serviços oferecidos pela empresa, armazenando dado
 
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/67758248/fc0ac91b-52aa-4f01-a496-f11b39601a0f)
 
-### Quarta tabela (Tipo serviço)
+### Quarta tabela (Tipo de serviço)
 Similar à primeira tabela de avaliação, esta tabela visa categorizar os diferentes tipos de serviços oferecidos pela empresa, fornecendo uma estrutura organizada para sua gestão.
 
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/67758248/a9fe9f04-7783-4f0a-bfab-a5e203d0c14e)
