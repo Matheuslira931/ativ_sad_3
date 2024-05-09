@@ -1,7 +1,7 @@
 ## Ativ_sad_3
 
 
-### Criação da tabela 1
+### Criação das tabelas 1
 
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/67758248/63c05385-bf82-4ce0-8888-f9dded74baa6)
 
@@ -28,7 +28,7 @@ Ela tem o mesmo proposito igualmente a primeira tabela de avalição
 _______________
 
 
-### Crianção da tabela 2
+### Crianção das tabelas 2
 
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/9d917466-e312-4d03-ac78-370b8561fb52)
 
@@ -63,6 +63,29 @@ _______________
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/ae9f97bc-cbfb-4b51-8a33-fbd2b7c73c0c)
 
 
+_______________
 
 
+### Criação das tabelas 3
+![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/f658ecab-0a33-4e99-ac9e-843070baf69a)
 
+### Primeira tabela (Dimensão Cliente)
+![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/4532f43f-0416-4f7e-bd18-def79e6fbd8a)
+
+### Segunda tabela (Dimensão Data)
+![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/5fa69ac8-ba98-460e-a616-eb5d74117633)
+
+### Terceira tabela (Dimensão Endereço)
+![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/465396b1-a4f2-4567-af42-dfdd3e2e48a0)
+
+### Quarta tabela (Dimensão Especialidade)
+![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/d76569f8-334d-417c-a8f6-d0eefe15d886)
+
+### Quinta tabela (Dimensão Funcionario)
+![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/5387dc15-114e-4f1c-a500-1caff12b40b5)
+
+### Sexta tabela (Dimensão Tipo de Serviço)
+![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/b551634e-5187-4431-94c5-1493fe692e13)
+
+### Sétima tabela (Dimensão Tipo de Serviço)
+![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/3212f462-ba23-4748-8ee7-688643f5cdfb)
