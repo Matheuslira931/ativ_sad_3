@@ -23,7 +23,7 @@ CREATE TABLE tb_tp_serv (
 CREATE TABLE tb_func (
    codfunc		  smallint PRIMARY KEY,
    nomefunc       varchar(60),
-   sxfunc  		  smallint, -- 0 = Masculino, 1 = Feminino
+   sxfunc  		  smallint, -- 1 = Masculino, 2 = Feminino
    dtnasc 		  date,
    especialidades varchar(30),
    salario 		  decimal(19,2)
@@ -34,7 +34,7 @@ CREATE TABLE tb_func (
 CREATE TABLE tb_serv (
    codser     smallint PRIMARY KEY,
    nomecli     varchar(60),
-   sxcli       varchar(1), -- 0 = Masculino, 1 = Feminino
+   sxcli       varchar(1), -- 1 = Masculino, 2 = Feminino
    bairro   varchar(20),
    rua      varchar(20),
    dataagend   date,

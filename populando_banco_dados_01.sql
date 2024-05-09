@@ -48,7 +48,7 @@ WHILE contador <= qtdRegistros DO
     VALUES (
         contador,
         CONCAT('Funcionário ', CAST((contador % 10 + 1) AS CHAR)),
-        ROUND(RAND()),
+        (SELECT FLOOR(1 + RAND() * 2)),
         CURRENT_DATE - INTERVAL FLOOR(RAND() * 200) DAY,
        (SELECT GROUP_CONCAT(codtpser ORDER BY RAND() SEPARATOR ', ') FROM 
        (SELECT codtpser FROM tb_tp_serv ORDER BY RAND() LIMIT 3) AS random_selection),
@@ -85,7 +85,7 @@ WHILE contador <= qtdRegistros DO
 		nomecli,
 		sxcli,
 		bairro,
-		ruatb_aval_serv,
+		rua,
 		dataagend,
 		horaagent,
 		vlrfrete,  
@@ -97,7 +97,7 @@ WHILE contador <= qtdRegistros DO
     VALUES (
         contador,
         CONCAT('Cliente ', CAST((contador % 10 + 1) AS CHAR)),
-        ROUND(RAND()),
+        (SELECT FLOOR(1 + RAND() * 2)),
         CONCAT('Bairro ', CAST((contador % 10 + 1) AS CHAR)),
         CONCAT('Rua ', CAST((contador % 10 + 1) AS CHAR)),
         CURRENT_DATE - INTERVAL FLOOR(RAND() * 14) DAY,

@@ -31,7 +31,7 @@ CREATE TABLE sexo (
 CREATE TABLE funcionario (
    id		  			smallint PRIMARY KEY auto_increment,
    nome       			varchar(60),
-   sexo_id  		  	smallint, -- 0 = Masculino, 1 = Feminino
+   sexo_id  		  	smallint, -- 1 = Masculino, 2 = Feminino
    dt_nascimento 		date,
    salario 		  		decimal(19,2),
    FOREIGN KEY (sexo_id) 		   REFERENCES sexo (id)
@@ -76,19 +76,19 @@ CREATE TABLE status_servico (
 CREATE TABLE servico (
    id     			smallint PRIMARY KEY auto_increment,
    cliente_id		smallint,
-   dataS			date,
+   data 			date,
    hora   			time,
    frete    		decimal(19,2),  
    valor_total    	decimal(19,2),
    tipo_servico_id	smallint,
    funcionario_id   smallint,
-   endereco_id	smallint,
+   endereco_id		smallint,
    status_id 		smallint, -- 1 Em espera, 2 Concluído, 3 Em atendimento , 4 Cancelado
-   FOREIGN KEY (cliente_id) 	REFERENCES cliente (id),
-   FOREIGN KEY (endereco_id) 	REFERENCES endereco (id),
-   FOREIGN KEY (tipo_servico_id) 	REFERENCES tipo_servico (id),
-   FOREIGN KEY (funcionario_id) REFERENCES funcionario (id),
-   FOREIGN KEY (status_id) 		REFERENCES status_servico (id)
+   FOREIGN KEY (cliente_id) 	 REFERENCES cliente (id),
+   FOREIGN KEY (endereco_id) 	 REFERENCES endereco (id),
+   FOREIGN KEY (tipo_servico_id) REFERENCES tipo_servico (id),
+   FOREIGN KEY (funcionario_id)  REFERENCES funcionario (id),
+   FOREIGN KEY (status_id) 		 REFERENCES status_servico (id)
 );
 
 -- Criando tabela de Avaliação do Serviço
