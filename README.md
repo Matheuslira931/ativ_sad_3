@@ -44,22 +44,19 @@ Terceira tabela (Endereço)
 Quarta tabela (Especialidade)
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/6bc4a1ee-6350-482c-b0b1-9b105b56b842)
 
-Quinta tabela (Especialidade)
-![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/1e1512b5-083d-4541-9121-22fc6a9f2ccc)
-
-Sexta tabela (Funcionario)
+Quinta tabela (Funcionario)
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/1f3aa5c9-365b-4165-b776-c99c48b7666d)
 
-Sétima tabela (Serviço)
+Sexta tabela (Serviço)
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/cab067ed-5c5a-4606-9572-220215a23894)
 
-Oitava tabela (Sexo)
+Sétima tabela (Sexo)
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/6fd27f9a-8907-40bf-a164-ee525bb5768a)
 
-Nona tabela (Status de Serviço)
+Oitava tabela (Status de Serviço)
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/0e2b161a-0c6e-43f5-98fe-390a1fd594f7)
 
-Décima tabela (Status de Serviço)
+Nona tabela (Status de Serviço)
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/ea76aadc-1208-48a9-9086-881191e037f4)
 
 
