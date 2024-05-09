@@ -96,25 +96,38 @@ _______________
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/f658ecab-0a33-4e99-ac9e-843070baf69a)
 
 ### Primeira tabela (Dimensão Cliente)
+Esta tabela representa uma abordagem de modelagem dimensional, sendo utilizada para armazenar informações sobre os clientes de uma forma mais otimizada para análises de dados, como em um data warehouse.
+
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/4532f43f-0416-4f7e-bd18-def79e6fbd8a)
 
 ### Segunda tabela (Dimensão Data)
+Armazena dados temporais.
+
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/5fa69ac8-ba98-460e-a616-eb5d74117633)
 
 ### Terceira tabela (Dimensão Endereço)
+Essa tabela contém informações sobre os endereços dos serviços.
+
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/465396b1-a4f2-4567-af42-dfdd3e2e48a0)
 
 ### Quarta tabela (Dimensão Especialidade)
+Destinada a armazenar informações sobre as especialidades dos serviços.
+
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/d76569f8-334d-417c-a8f6-d0eefe15d886)
 
 ### Quinta tabela (Dimensão Funcionario)
+Essencial para armazenar detalhes sobre os funcionários em um ambiente de modelagem dimensional, fornecendo uma visão mais completa das informações relacionadas à equipe de trabalho.
+
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/5387dc15-114e-4f1c-a500-1caff12b40b5)
 
 ### Sexta tabela (Dimensão Tipo de Serviço)
+Detalha os aspectos adicionais dos tipos de serviço para uma análise dimensional mais refinada.
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/b551634e-5187-4431-94c5-1493fe692e13)
 
-### Sétima tabela (Dimensão Tipo de Serviço)
+### Sétima tabela (Fato)
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/3212f462-ba23-4748-8ee7-688643f5cdfb)
 
 ### Diagrama do Banco 3
+Oferece uma visão geral da estrutura dimensional do banco de dados, destacando as tabelas de dimensão adicionadas nesta etapa e sua relação com outras entidades, essencial para análises multidimensionais e elaboração de relatórios complexos.
+
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/19bda5a5-ca8f-42af-ac12-11c0a61564de)
