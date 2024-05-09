@@ -33,16 +33,16 @@ _______________
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/9d917466-e312-4d03-ac78-370b8561fb52)
 
 Primeira tabela (Avalição servico)
-![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/1cf3999f-72af-4e50-8b0d-d20dc25416e4)
+![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/3db645c1-7330-41f2-8f14-41396d143498)
 
 Segunda tabela (Cliente)
-![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/6d193ddc-707b-4f5b-b227-2a9d446dcfd7)
+![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/5351197e-c499-4314-84a6-6202846e6262)
 
 Terceira tabela (Endereço)
-![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/3e0462be-9dcd-4dc7-a621-6bde751de6d2)
+![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/b5cfc664-8412-488c-9061-fc35b3a9ad4f)
 
 Quarta tabela (Especialidade)
-![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/623414ae-9a84-4dd4-b0a4-8d27f921129f)
+![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/6bc4a1ee-6350-482c-b0b1-9b105b56b842)
 
 Quinta tabela (Especialidade)
 ![image](https://github.com/Matheuslira931/ativ_sad_3/assets/88988394/1e1512b5-083d-4541-9121-22fc6a9f2ccc)
